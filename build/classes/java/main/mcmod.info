@@ -1,0 +1,17 @@
+[
+    {
+        "modid": "mysticalmachines",
+        "name": "welcomerecommender",
+        "version": "1.0-SNAPSHOT",
+        "description": "Welcome new players more easily and get rewarded by doing it",
+        "authorList": [
+            "Rubbertjuh"
+        ],
+        "dependencies": [
+            "spongeapi@7.1.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.1.0"
+        ]
+    }
+]
