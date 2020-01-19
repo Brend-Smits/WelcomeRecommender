@@ -1,8 +1,8 @@
 [
     {
-        "modid": "mysticalmachines",
+        "modid": "welcomerecommender",
         "name": "welcomerecommender",
-        "version": "1.0-SNAPSHOT",
+        "version": "unspecified",
         "description": "Welcome new players more easily and get rewarded by doing it",
         "authorList": [
             "Rubbertjuh"
